@@ -1,9 +1,12 @@
 //Stylesheet for the look and feel of the membership database
 
+h1 {
+	font-family:Arial;
+}
 h2 {
 	font-family:Arial;
 }
-h1 {
+h3 {
 	font-family:Arial;
 }
 
