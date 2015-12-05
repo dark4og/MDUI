@@ -1,0 +1,48 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html>
+<head>
+<script type="text/JavaScript">
+	function changeClass(x,y) {
+	 	x.className = y;
+  }
+</script>
+<link rel="stylesheet" href="/Header.css" type="text/css" />
+<title>Menu</title>
+</head>
+<body>
+<div class="DoNotPrint">
+<table style="margin:auto;">
+	<tr>
+		<td>
+			<div id='navigation'>
+				<ul>
+					<li class="first">Login : <a href="https://hall.twu514.org/SelectDatabase.php">Allan</a></li>
+					<li id="browseMembers">Members
+						<ul>
+	<li><a href="https://hall.twu514.org/members/MainData/AccountsReceivable.php" title="Accounts Recievable">Accounts Recievable</a></li>	<li><a href="https://hall.twu514.org/anniversary/ViewAnniversaries.php" title="Anniversaries">Anniversaries</a></li>	<li><a href="https://hall.twu514.org/members/MainData/AssignCommittee.php" title="Committees &amp; Groups">Committees &amp; Groups</a></li>	<li><a href="https://hall.twu514.org/members/MainData/Correspondence.php" title="Dialog">Dialog</a></li>	<li><a href="https://hall.twu514.org/members/MainData/ViewMembers.php" title="Edit">Edit</a></li>	<li><a href="https://hall.twu514.org/meetings/MeetingCorrespondence.php?Incoming=Incoming" title="Incoming Correspondence">Incoming Correspondence</a></li>	<li><a href="https://hall.twu514.org/members/MainData/MailMerge.php" title="Mail Merge">Mail Merge</a></li>	<li><a href="https://hall.twu514.org/members/MainData/ManageEmailList.php" title="Manage Email List">Manage Email List</a></li>	<li><a href="https://hall.twu514.org/meetings/ViewMeetings.php" title="Membership Meetings">Membership Meetings</a></li>	<li><a href="https://hall.twu514.org/meetings/HatSelection.php" title="Gift-&gt;Hat">Gift-&gt;Hat</a></li>	<li><a href="https://hall.twu514.org/meetings/GiftSelection.php" title="Gift-&gt;Knives">Gift-&gt;Knives</a></li>	<li><a href="https://hall.twu514.org/shirts/index.php" title="Gift-&gt;Shirts">Gift-&gt;Shirts</a></li>	<li><a href="https://hall.twu514.org/members/MainData/Motions.php" title="Motions">Motions</a></li>	<li><a href="https://hall.twu514.org/meetings/MeetingCorrespondence.php?Outgoing=Outgoing" title="Outgoing Correspondence">Outgoing Correspondence</a></li>	<li><a href="https://hall.twu514.org/members/MainData/Pager.php" title="Pager">Pager</a></li>	<li><a href="https://hall.twu514.org/members/MainData/PAReport.php" title="PA Reports">PA Reports</a></li>	<li><a href="https://grievance.twu514.org/Safety.php" title="Safety">Safety</a></li>	<li><a href="https://hall.twu514.org/members/MainData/SSNSearch.php" title="SearchSSN">SearchSSN</a></li>	<li><a href="https://hall.twu514.org/members/MainData/SecureUploads.php" title="Secure Uploads">Secure Uploads</a></li>	<li><a href="https://hall.twu514.org/members/MainData/EmployeesinShop.php" title="Shop Lookup">Shop Lookup</a></li>	<li><a href="https://hall.twu514.org/members/MainData/ShopShiftUpdate.php" title="Shop Shifts">Shop Shifts</a></li>	<li><a href="https://hall.twu514.org/SSMeeting/ViewSSMeetings.php" title="Shop Steward Meetings">Shop Steward Meetings</a></li>	<li><a href="https://hall.twu514.org/test/statspage.php" title="stats page">stats page</a></li>	<li><a href="https://hall.twu514.org/members/MainData/UnionAdvocacy.php" title="Union Advocacy">Union Advocacy</a></li>						</ul>
+					</li>
+					<li id="browseLogs">Logs
+						<ul>
+	<li><a href="https://hall.twu514.org/PhoneLog/BibleLog.php" title="Bible Log">Bible Log</a></li>	<li><a href="https://hall.twu514.org/PhoneLog/DailyLog.php" title="Daily Log">Daily Log</a></li>	<li><a href="https://hall.twu514.org/PhoneLog/PackagesReceivedLog.php" title="Incoming Package Log">Incoming Package Log</a></li>	<li><a href="https://hall.twu514.org/test/ReadMPR.php" title="MPR Hours">MPR Hours</a></li>	<li><a href="https://hall.twu514.org/PhoneLog/OutgoingPackageLog.php" title="Outgoing Package Log">Outgoing Package Log</a></li>	<li><a href="https://hall.twu514.org/test/PhoneBook2.php" title="PhoneBook">PhoneBook</a></li>	<li><a href="https://hall.twu514.org/PhoneLog/PhoneLog.php" title="Phone Log">Phone Log</a></li>	<li><a href="https://hall.twu514.org/test/IAMTWU.php" title="Seniority Integration">Seniority Integration</a></li>	<li><a href="https://hall.twu514.org/PhoneLog/TicketLog.php" title="Ticket Log">Ticket Log</a></li>	<li><a href="https://hall.twu514.org/UB.php" title="UB Log">UB Log</a></li>	<li><a href="https://hall.twu514.org/PhoneLog/WatchRepairLog.php" title="Watch Repair">Watch Repair</a></li>						</ul>
+					</li>
+					<li id="browseTools">Tools
+						<ul>
+	<li><a href="https://hall.twu514.org/test/Investigate.php" title="Investigate Tools">Investigate Tools</a></li>	<li><a href="https://hall.twu514.org/test/ViewWhoWentWhere.php" title="Audit Tools">Audit Tools</a></li>	<li><a href="https://hall.twu514.org/Equipment/index.php" title="Equipment List">Equipment List</a></li>	<li><a href="https://grievance.twu514.org/PutInGroup.php" title="Manage Users">Manage Users</a></li>	<li><a href="https://hall.twu514.org/CDS.php" title="Convention Delegate Survey">Convention Delegate Survey</a></li>	<li><a href="https://hall.twu514.org/test/News.php" title="Daily Digest">Daily Digest</a></li>	<li><a href="https://grievance.twu514.org/EncryptFile.php" title="De/En-crypt file">De/En-crypt file</a></li>	<li><a href="https://grievance.twu514.org/ForgotPassword.php?ChangePassword=1" title="Change Password">Change Password</a></li>						</ul>
+					</li>
+					<li id="browseDues">Finance
+						<ul>
+	<li><a href="https://hall.twu514.org/members/MainData/ImportDuesData.php" title="Dues Update">Dues Update</a></li>						</ul>
+					</li>
+	<li><a href="https://hall.twu514.org/control/TWU514-Hall-Media/index.php" title="Hall Control">Hall Control</a></li>					<li id="browseElection">Election
+						<ul>
+	<li><a href="https://hall.twu514.org/Election/ElectionNominees.php" title="Election Nominees">Election Nominees</a></li>	<li><a href="https://hall.twu514.org/Election/ElectionNomineesDisplay.php" title="Election Nominees Display">Election Nominees Display</a></li>	<li><a href="https://hall.twu514.org/Election/WhoVoted.php" title="Who Voted">Who Voted</a></li>	<li><a href="https://hall.twu514.org/Election/ElectionReadOnly.php" title="Election Results">Election Results</a></li>		</ul>
+	</li>	<li><a href="https://hall.twu514.org/Politics/index.php" title="Signshop">Signshop</a></li>					<li><a href="https://grievance.twu514.org/index.php" title="Grievance">Grievance</a></li>
+<li><a href='https://hall.twu514.org/HelpDesk.php'>Help Desk</a></li>	<li><a href="https://hall.twu514.org/Logout.php" title="Logout">Logout</a></li>				</ul>
+			</div>
+		</td>
+	</tr>
+</table>
+</div>
+</body>
+</html>
