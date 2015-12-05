@@ -11,6 +11,9 @@
 }
 #navigation li {
   float:left;
+  display:block;
+  height:1em;
+  width:auto;
   border-left:1px solid #7ad;
   background-color:#009;
   color:#fff;
@@ -28,6 +31,7 @@
 }
 #navigation li.first {
   border-left:none;
+  border-radius:1em 0 0 1em;
   padding:0 1em 0 1em;
 }
 #navigation ul ul {
